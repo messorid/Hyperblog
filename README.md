@@ -6,3 +6,4 @@ Blog de curso de Git y github
 * todos los comando de git
 * el fluhjjo de trabajo en github
 * Incluye ejhemplos en windows linuxy mac
+* Disponible para todas las edades
